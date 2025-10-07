@@ -1,40 +1,44 @@
-# Linear Regression Project 
+# Machine Learning Labs 🧠
+This repository contains a collection of machine learning projects and experiments implemented in Python.
+It serves as a learning portfolio showcasing practical implementations of algorithms, from simple regression to advanced predictive models.
 
-This repository is a collection of linear regression projects implemented in Python. It serves as a learning portfolio and demonstration of different use-cases for linear regression.
-
-## Tools & Libraries Used
-
+## Tools & Libraries Used 🧰
 - Python 3.x
 - Jupyter Notebook
 - NumPy, Pandas
-- Matplotlib
+- Matplotlib, Seaborn
 - Scikit-learn
 
-## 📂 Project Structure
-
-linear-regression-ml/
+## Project Structure 📂
+machine-learning-labs/
 ├── venv/
 ├── requirements.txt
 ├── README.md
-├── project-1-simple-model/
-├── project-2-housing-predictor/
+├── linear-regression/
+│   ├── project-1-simple-model/
+│   ├── project-2-housing-predictor/
+├── decision-trees/
+├── random-forest/
 └── ...
 
-bash
-Copy
-Edit
 
-## 🚀 How to Use
+Each folder represents a specific model or concept in machine learning, containing its own notebooks and documentation.
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/linear-regression-ml.git
-Navigate into any project subfolder and run the notebook.
+### How to Use
+`Clone the repository:`
+git clone https://github.com/Omagbs/machine-learning-labs.git
 
-Each folder has its own README.md and notebook file.
+`Navigate into any project subfolder and open the notebook:`
+- cd machine-learning-labs/linear-regression
+- jupyter notebook
+- Follow the notebook instructions to explore, train, and visualize results.
 
-📁 Projects
-Project	Description
-project-1-simple-model	
+## Example Projects🧩
+Folder	Description
+linear-regression/	Basic regression models for prediction tasks
+logistic-regression/	Classification using logistic regression
 
-`Author`: **Paul Omagbemi**
+### Author
+`Paul Omagbemi`
+📧 paulwem3000@gmail.com
+🚀 Passionate about AI, machine learning, and data-driven problem-solving.
